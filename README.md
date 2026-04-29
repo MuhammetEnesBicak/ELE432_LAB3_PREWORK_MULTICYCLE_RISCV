@@ -1,6 +1,12 @@
 # ELE432_LAB3_PREWORK_MULTICYCLE_RISCV
 2220357005 Muhammet Enes Bıçak ELE432_LAB3_PREWORK_MULTICYCLE_RISCV
 
+From top-module view :
+<img width="591" height="384" alt="image" src="https://github.com/user-attachments/assets/ecd73b98-8585-4fdf-a492-82026d02bee1" />
+From RISCV Multicycle Processor View :
+<img width="843" height="511" alt="image" src="https://github.com/user-attachments/assets/24a136f8-0361-4f04-a73f-878d7fd0ccb1" />
+
+
 Testbench Waveform for 0 to 140 ns : 
 <img width="1875" height="357" alt="image" src="https://github.com/user-attachments/assets/ac30d8cc-c5ca-46fc-a480-10e46796bca3" />
 140 to 280 ns : 
