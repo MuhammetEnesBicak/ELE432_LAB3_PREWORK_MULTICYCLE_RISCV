@@ -2,7 +2,8 @@
 2220357005 Muhammet Enes Bıçak ELE432_LAB3_PREWORK_MULTICYCLE_RISCV
 
 From top-module view :
-<img width="591" height="384" alt="image" src="https://github.com/user-attachments/assets/ecd73b98-8585-4fdf-a492-82026d02bee1" />
+<img width="741" height="493" alt="image" src="https://github.com/user-attachments/assets/541e22fe-0c9b-4b96-9ae2-6e47310f480e" />
+
 From RISCV Multicycle Processor View :
 <img width="843" height="511" alt="image" src="https://github.com/user-attachments/assets/24a136f8-0361-4f04-a73f-878d7fd0ccb1" />
 
