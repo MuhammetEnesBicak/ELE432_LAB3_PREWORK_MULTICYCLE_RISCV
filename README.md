@@ -7,6 +7,9 @@ From top-module view :
 From RISCV Multicycle Processor View :
 <img width="843" height="511" alt="image" src="https://github.com/user-attachments/assets/24a136f8-0361-4f04-a73f-878d7fd0ccb1" />
 
+CONTINUATION OF THE EXPECTED OPERATION TABLE :
+<img width="831" height="284" alt="image" src="https://github.com/user-attachments/assets/4e2afee6-1d2c-43e7-8827-46b6bbcc4826" />
+
 
 Testbench Waveform for 0 to 140 ns : 
 <img width="1875" height="357" alt="image" src="https://github.com/user-attachments/assets/ac30d8cc-c5ca-46fc-a480-10e46796bca3" />
