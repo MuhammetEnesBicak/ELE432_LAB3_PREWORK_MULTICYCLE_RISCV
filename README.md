@@ -13,6 +13,8 @@ Testbench Waveform for 0 to 140 ns :
 <img width="1869" height="357" alt="image" src="https://github.com/user-attachments/assets/b28c005f-c3b8-45b6-9c8c-e5fd0190484c" />
 640 to 720 ns :
 <img width="1870" height="352" alt="image" src="https://github.com/user-attachments/assets/d5b61001-5e2d-43ec-8a8f-410de0856787" />
+SIMULATION SUCCEEDED!
+<img width="777" height="93" alt="image" src="https://github.com/user-attachments/assets/57b4bdfb-2e3e-4b49-9146-f1716ba9a176" />
 
 
 
